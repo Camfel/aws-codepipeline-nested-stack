@@ -1,3 +1,3 @@
 Resources:
-  Dummy3:
+  Dummy4:
     Type: AWS::CloudFormation::WaitConditionHandle
